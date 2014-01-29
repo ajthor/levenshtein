@@ -1,0 +1,22 @@
+{
+  "name": "levenshtein",
+  "version": "0.0.1",
+  "description": "JS Levenshtein distance calculator.",
+  "main": "levenshtein.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajthor/levenshtein.git"
+  },
+  "keywords": [
+    "levenshtein"
+  ],
+  "author": "Adam Thorpe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajthor/levenshtein/issues"
+  },
+  "homepage": "https://github.com/ajthor/levenshtein"
+}
